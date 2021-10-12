@@ -22,11 +22,11 @@ The websites used were:
 
 ![img](https://github.com/CarmenU18/Mission_to_Mars/blob/main/Resources/Desktop.PNG)
 
-![img](https://github.com/CarmenU18/Mission_to_Mars/blob/main/Resources/Desktop.PNG)
+![img](https://github.com/CarmenU18/Mission_to_Mars/blob/main/Resources/Desktop_1.PNG)
 
 2. Iphone view
 
-![img](hhttps://github.com/CarmenU18/Mission_to_Mars/blob/main/Resources/Iphone.PNG)
+![img](https://github.com/CarmenU18/Mission_to_Mars/blob/main/Resources/Iphone.PNG)
 
 3. Ipad view
 
